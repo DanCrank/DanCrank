@@ -6,4 +6,4 @@
 
 "I can take apart the remote control, and I can almost put it back together." -Flobots
 
-Follow me at <a href="https://fosstodon.org/@danno" rel="nofollow" rel="me">`@danno@fosstodon.org`</a>
+Follow me at [`@danno@fosstodon.org`](<a href="https://fosstodon.org/@danno" rel="me">)
